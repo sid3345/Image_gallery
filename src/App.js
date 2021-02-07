@@ -69,7 +69,7 @@ class App extends Component {
         return (<React.Fragment>
 
             <div className = 'tc'>
-            <h1 className = 'f1'>Image Search</h1>
+            <h1 className = 'f1'>Image Gallery</h1>
             {/* <button type="button" onClick={this.onSubmit}>Upload</button> */}
             
             <form onSubmit={this.handleSubmit}>
