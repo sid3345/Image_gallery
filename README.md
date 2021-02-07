@@ -6,7 +6,7 @@
  
 Implementations:
 
- - User input of image URL and image name also implemented.
+ - User input of image URL and image name.
  - Image card
  - Dynamic search function
  - User input acknowledgement
