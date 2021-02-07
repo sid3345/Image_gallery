@@ -2,7 +2,7 @@
  
  Image gallery with images fetched from API / user input and name shown as card.
  
- The project was developed for HackerEarth challenge: https://assessment.hackerearth.com/challenges/hiring/siemens-fsd-hiring-jan21/
+ The project was developed within 5 hours for HackerEarth challenge: https://assessment.hackerearth.com/challenges/hiring/siemens-fsd-hiring-jan21/
  
 Implementations:
 
